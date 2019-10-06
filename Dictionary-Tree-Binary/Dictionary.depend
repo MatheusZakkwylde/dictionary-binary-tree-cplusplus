@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1569012426 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/main.cpp
+	"Dictionary.h"
+	"colors.h"
+	<stdlib.h>
+
+1569012726 /home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/include/Dictionary.h
+	<fstream>
+	<cctype>
+	<vector>
+	"Binary_Tree.h"
+
+1569012743 /home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/include/Binary_Tree.h
+	<iostream>
+	<vector>
+
+1568571200 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/src/Binary_Tree.cpp
+	"Binary_Tree.h"
+
+1568571274 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/src/Dictionary.cpp
+
+1568981263 /home/linuxlite-anonymous/Projects/CodeBlocks/Dictionary/include/colors.h
+
+1569266676 source:/home/leandro/Downloads/Dictionary/main.cpp
+	"Dictionary.h"
+	"colors.h"
+	<stdlib.h>
+
+1569266944 /home/leandro/Downloads/Dictionary/include/Dictionary.h
+	<fstream>
+	<cctype>
+	<vector>
+	"Binary_Tree.h"
+	<iostream>
+
+1569263566 /home/leandro/Downloads/Dictionary/include/Binary_Tree.h
+	<iostream>
+	<string>
+	<vector>
+
+1568981263 /home/leandro/Downloads/Dictionary/include/colors.h
+
+1568571200 source:/home/leandro/Downloads/Dictionary/src/Binary_Tree.cpp
+	"Binary_Tree.h"
+
+1568571274 source:/home/leandro/Downloads/Dictionary/src/Dictionary.cpp
+
+1568571200 source:/home/linuxlite-anonymous/Downloads/Dictionary/src/Binary_Tree.cpp
+	"Binary_Tree.h"
+
+1569263566 /home/linuxlite-anonymous/Downloads/Dictionary/include/Binary_Tree.h
+	<iostream>
+	<string>
+	<vector>
+
+1568571274 source:/home/linuxlite-anonymous/Downloads/Dictionary/src/Dictionary.cpp
+
+1569267585 source:/home/linuxlite-anonymous/Downloads/Dictionary/main.cpp
+	"Dictionary.h"
+	"colors.h"
+	<stdlib.h>
+
+1569266944 /home/linuxlite-anonymous/Downloads/Dictionary/include/Dictionary.h
+	<fstream>
+	<cctype>
+	<vector>
+	"Binary_Tree.h"
+	<iostream>
+
+1568981263 /home/linuxlite-anonymous/Downloads/Dictionary/include/colors.h
+
